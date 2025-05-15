@@ -1,5 +1,3 @@
-// deno run --allow-net --allow-env --unstable web_repo_delete.ts
-
 import { serve } from "https://deno.land/std@0.203.0/http/server.ts";
 import { open } from "https://deno.land/x/open@v0.0.6/index.ts";
 
