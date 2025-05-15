@@ -11,7 +11,7 @@ export GITHUB_TOKEN=your_token_here
 ```
 2. Run the CLI
 ```bash
-deno run --allow-net --allow-env --unstable web_repo_delete.ts
+deno run --allow-net --allow-env --unstable main.ts
 ```
 
 ## Usage
